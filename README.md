@@ -1,9 +1,13 @@
 ## About SE-CWAWU
-Group of Software Engineering Comprehensive Experiment, CS Department, Nanjing Univeristy
-Yuehan Wang*, Xinyue Liang, Yin Li, Yinchi Wang, Yue Cai
+Group of Software Engineering Comprehensive Experiment
+
+CS Department, Nanjing Univeristy
+
+Group Member:
+**Yuehan Wang, Xinyue Liang, Yin Li, Yinchi Wang, Yue Cai**
 
 TA：
-Yifei Wang
+**Yifei Wang**
 
 ## Intro
 
