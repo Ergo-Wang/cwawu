@@ -1,15 +1,15 @@
-## 关于SE-CWAWU
-南京大学CWAWU小组成员：
-梁欣悦 王吟迟 王月涵 蔡悦 李颖
+## About SE-CWAWU
+Group of Software Engineering Comprehensive Experiment, CS Department, Nanjing Univeristy
+Yuehan Wang*, Xinyue Liang, Yin Li, Yinchi Wang, Yue Cai
 
-助教：
-王乙飞
+TA：
+Yifei Wang
 
-## 框架介绍
+## Intro
 
-请参考[Docs](docs/README.md)
+Please refer to [Docs](docs/README.md)
 
 ## Example
 
-请参考[TemplateChecker](tests/TemplateChecker/README.md)
+Please refer to [TemplateChecker](tests/TemplateChecker/README.md)
 
