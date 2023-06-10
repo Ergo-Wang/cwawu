@@ -1,0 +1,14 @@
+"filename", "language", "C++", "comment", "blank", "total"
+"/home/ergo/rose/SE-Experiment-master/include/checkers/All_Detector.h", "C++", 15, 0, 5, 20
+"/home/ergo/rose/SE-Experiment-master/include/checkers/Buffer_Overflow_Detector.h", "C++", 587, 108, 63, 758
+"/home/ergo/rose/SE-Experiment-master/include/checkers/Detector.h", "C++", 177, 28, 23, 228
+"/home/ergo/rose/SE-Experiment-master/include/checkers/Memory_Leak_Detector.h", "C++", 343, 18, 47, 408
+"/home/ergo/rose/SE-Experiment-master/include/checkers/Null_Pointer_Deref_Detector.h", "C++", 295, 45, 27, 367
+"/home/ergo/rose/SE-Experiment-master/include/checkers/Out_Index.h", "C++", 1744, 271, 210, 2225
+"/home/ergo/rose/SE-Experiment-master/include/checkers/TemplateChecker.h", "C++", 12, 0, 5, 17
+"/home/ergo/rose/SE-Experiment-master/include/checkers/Variable_Uninitialized_Detector.h", "C++", 102, 5, 12, 119
+"/home/ergo/rose/SE-Experiment-master/include/checkers/def_use.h", "C++", 229, 59, 70, 358
+"/home/ergo/rose/SE-Experiment-master/include/framework/ASTManager.h", "C++", 109, 4, 23, 136
+"/home/ergo/rose/SE-Experiment-master/include/framework/Common.h", "C++", 14, 0, 5, 19
+"/home/ergo/rose/SE-Experiment-master/include/framework/Config.h", "C++", 22, 0, 5, 27
+"Total", "-", 3649, 538, 495, 4682
